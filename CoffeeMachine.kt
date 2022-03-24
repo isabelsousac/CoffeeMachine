@@ -1,0 +1,4 @@
+package machine
+
+class CoffeeMachine {
+}
